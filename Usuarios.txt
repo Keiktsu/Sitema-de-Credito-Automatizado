@@ -1,9 +1,0 @@
-Ing de Conocimiento:
-
-admin
-123
-
-Cliente:
-
-cliente
-123

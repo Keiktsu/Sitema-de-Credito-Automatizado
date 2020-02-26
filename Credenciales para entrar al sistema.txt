@@ -1,0 +1,11 @@
+El sistema tiene 2 modalidades
+
+Para entra como administrador:
+
+user: admin
+password: 123
+
+Para entrar como Cliente:
+
+user: cliente
+password: 123
